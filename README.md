@@ -22,7 +22,7 @@ This Chart Q&A application allows users to analyze and extract information from 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/chart-qa-app.git
+git clone https://github.com/sushantgai/chart-qa-app.git
 cd chart-qa-app
 ```
 
